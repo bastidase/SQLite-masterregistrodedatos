@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SQLite</string>
+
+    <string name="name">Nombre</string>
+    <string name="email">Correo Electronico</string>
+    <string name="guardar">Guardar Contacto</string>
+
+    <string name="regresar">Regresar</string>
+</resources>
